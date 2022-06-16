@@ -1,2 +1,1 @@
-# Learning-through-practice
-vue+element-ui项目实践
+github设置的图床配置
